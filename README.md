@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvPa1212
-- 🌱 I’m currently learning Assembly and C++.
+- 🌱 I’m currently learning Assembly, Java, and C++.
 
 <!---
 AvPa1212/AvPa1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
