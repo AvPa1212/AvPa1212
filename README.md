@@ -8,7 +8,7 @@ I'm an Electrical Engineering student interested in **systems, low-level computi
 ## 🔧 About Me
 - 🎓 Studying: Electrical Engineering  
 - ⚡ Interested in: Computer architecture, embedded systems, and performance optimization  
-- 🧠 Currently learning: Java, C++, TypeScript, and Lua  
+- 🧠 Currently learning: Java, C++, and TypeScript 
 
 ---
 
