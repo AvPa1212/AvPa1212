@@ -42,7 +42,10 @@ I'm an Electrical Engineering student interested in **systems, low-level computi
 - Deepen my understanding of computer architecture  
 - Improve C++ proficiency  
 - Explore embedded and hardware-adjacent systems  
-- Build technically rigorous, well-documented projects  
+- Build technically rigorous, well-documented projects
+
+## 📊 GitHub Stats  
+![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvPa1212&show_icons=true&theme=tokyonight) 
 
 ---
 
