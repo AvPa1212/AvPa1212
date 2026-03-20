@@ -45,7 +45,8 @@ I'm an Electrical Engineering student interested in **systems, low-level computi
 - Build technically rigorous, well-documented projects
 
 ## 📊 GitHub Stats  
-![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvPa1212&show_icons=true&theme=tokyonight) 
+![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvPa1212&show_icons=true&theme=transparent) 
+![Avi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvPa1212&theme=transparent&layout=compact)
 
 ---
 
